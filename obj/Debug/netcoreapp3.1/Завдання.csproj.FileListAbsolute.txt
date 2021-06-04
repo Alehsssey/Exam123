@@ -1,0 +1,11 @@
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\bin\Debug\netcoreapp3.1\Завдання.exe
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\bin\Debug\netcoreapp3.1\Завдання.deps.json
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\bin\Debug\netcoreapp3.1\Завдання.runtimeconfig.json
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\bin\Debug\netcoreapp3.1\Завдання.runtimeconfig.dev.json
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\bin\Debug\netcoreapp3.1\Завдання.dll
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\bin\Debug\netcoreapp3.1\Завдання.pdb
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\obj\Debug\netcoreapp3.1\Завдання.csprojAssemblyReference.cache
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\obj\Debug\netcoreapp3.1\Завдання.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\obj\Debug\netcoreapp3.1\Завдання.AssemblyInfo.cs
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\obj\Debug\netcoreapp3.1\Завдання.dll
+C:\Users\Я\Desktop\2 курс 2 семестр\OOP\Лабораторна робота 3\Завдання 4\obj\Debug\netcoreapp3.1\Завдання.pdb
